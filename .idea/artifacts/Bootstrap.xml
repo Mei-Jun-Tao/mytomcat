@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bootstrap">
+    <output-path>D:/abc</output-path>
+    <root id="archive" name="Bootstrap.jar">
+      <element id="module-output" name="mytomcat" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: jstl.jar jspc_all.jar mytomcat.jar standard.jar junit-4.9.
+ jar servlet-api.jar jsoup-1.12.1.jar log4j-1.2.17.jar hutool-all-4.3.
+ 1.jar mysql-connector-java-5.0.8-bin.jar
+

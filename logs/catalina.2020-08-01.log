@@ -1,0 +1,408 @@
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 10:20:23 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 10:20:36 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 10:20:36 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 10:20:36 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 10:20:36 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 10:20:36 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 10:20:36 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 1 ms
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 10:21:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 10:21:24 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 10:21:47 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 10:21:47 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 10:21:47 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 10:21:47 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 10:21:47 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 10:21:47 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 11:04:49 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 1 ms
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:05:57 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 1 ms
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 1 ms
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:06:33 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 11:52:46 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:54:00 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 1 ms
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 11:56:15 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 1 ms
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 2 ms
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:56:18 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 11:58:03 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 1 ms
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:58:05 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 11:59:28 上午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 11:59:31 上午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J myTomcat/1.0.1
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 8.1
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : OS Version:		6.3
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_45\jre
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_45-b14
+08 01, 2020 12:00:56 下午 cn.how2j.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 1 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 12:01:07 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 1 ms
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\a
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\a has finished in 0 ms
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\mytomcat\webapps\ROOT
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\mytomcat\webapps\ROOT has finished in 0 ms
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/mytomcat/b
+08 01, 2020 12:01:29 下午 cn.how2j.mytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/mytomcat/b has finished in 0 ms
